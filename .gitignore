@@ -1,0 +1,34 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+out/
+
+## .NET
+*.dll
+*.exe
+*.pdb
+
+## Logs
+*.log
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Environment variables
+.env
+.env.*
+
+## HTTP files (opcional)
+*.http
